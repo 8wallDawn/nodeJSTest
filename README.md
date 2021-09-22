@@ -15,7 +15,7 @@ NodeJS의 버전을 변경할 수 있도록 하는 프로그램이다.
 
 - MAC OS
     1. [README.md](http://readme.md) 에서 Install & Update Script 선택
-    2. curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh) | bash 복사
+    2. `curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh) | bash` 복사
     3. 터미널에 입력
 
     [GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
